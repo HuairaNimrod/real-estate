@@ -5,8 +5,8 @@ body {
   :root {
     --primary-color: #30BB96;
     --secondary-color: #6FF0CE;
-    --accent-color: #e8e7fa;
-    --shadow-color: #E8E8E8;
+    --accent-color: #c8ebe1;
+    --shadow-color: #dde6e3;
   }
   
   button.primary {
