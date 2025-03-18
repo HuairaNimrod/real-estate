@@ -4,7 +4,7 @@ import { HousingLocation } from '../housinglocation';
 
 @Component({
   selector: 'app-housing-location',
-  imports: [RouterLink, RouterOutlet],
+  imports: [RouterLink],
   templateUrl: './housing-location.component.html',
   styleUrl: './housing-location.component.css'
 })
