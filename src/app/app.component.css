@@ -2,5 +2,26 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 20px 0px;
 }
 
+footer{
+    
+    padding: 20px 0px 40px;
+    background: var(--primary-color);
+    /* padding: 5px 0px; */
+    color: white;
+}
+footer ul{
+    list-style-type: none;
+}
+footer ul li{
+    margin: 10px 0px ;
+}
+footer p{
+    text-align: center;
+}
+
+.content{
+    padding: 5px 10px;
+}
